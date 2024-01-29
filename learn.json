@@ -1,6 +1,7 @@
   
 {
 	"title" : "Fix the Misspell Challenge",
+	"updateNote": "Fixed and updated the project's heading to correct a spelling error",
 	"slug" : "fix-the-misspell",
 	"preview": "https://github.com/breatheco-de/the-misspell-chalenge/raw/master/preview.png?raw=true",
 	"status": "published",
